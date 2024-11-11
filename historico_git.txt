@@ -1,0 +1,11 @@
+commit 2b5aa921a849d8ff6abc8845ef1fbdad8d66ef99
+Author: Cairo <cairogabriel@usp.br>
+Date:   Mon Nov 11 17:04:35 2024 -0300
+
+    README.md
+
+commit 50abdb0c0d4bbe89a138d6d17644e4821d8cf38b
+Author: Cairo <cairogabriel@usp.br>
+Date:   Mon Nov 11 16:52:31 2024 -0300
+
+    Some projects
