@@ -34,6 +34,16 @@ user=SEL
 WantedBy=multi-user.target
 ```
 
+# Videos
+
+## Blink.mp4
+
+No video 'blink.mp4' é o funcionamento do codigo 'blink.sh'
+
+## BootBlink.mp4 
+
+No video mostra a inicialização do raspberry pi com o blink.sh sendo ativado no boot
+
 # PWM 
 
 Esse programa foi upado somente como teste para entender o funcionamento do git 
